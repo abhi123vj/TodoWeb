@@ -1,5 +1,5 @@
 # WebApp For Group ToDo
-> **You can try out the app [here](https://play.google.com/store/apps/details?id=com.abhi.todoapp).**
+> **You can try out the app [here](https://grp2do.web.app).**
 
 <p align="center">
 
